@@ -1,7 +1,12 @@
 # 💫 About Me:
 I’m a small game dev coding in vs code
+
 I know c++, sfml and arduino
+
+The art is made in piskel and the music is from opengameart
+
 Projects: Tic tac toe game<br>
+
 Upcoming: Fruit fall
 
 
