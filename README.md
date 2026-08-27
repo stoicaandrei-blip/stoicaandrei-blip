@@ -6,9 +6,9 @@ I know c++, sfml and arduino
 The art is made in piskel and the music is from opengameart
 
 Projects: Tic tac toe game<br>
-          Fruit fall
+                    Fruit fall
 
-Upcoming: /
+Upcoming: Aviation Trivia
 
 
 ## 🌐 Socials:
