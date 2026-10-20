@@ -7,8 +7,9 @@ The art is made in piskel and the music is from opengameart
 
 Projects: Tic tac toe game<br>
                     Fruit fall
+                    Aviation Trivia
 
-Upcoming: Aviation Trivia
+Upcoming: More updates for Aviation Trivia
 
 
 ## 🌐 Socials:
